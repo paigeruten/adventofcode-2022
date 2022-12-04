@@ -1,3 +1,5 @@
+Regex
+
 File do(
     openAndReadLines := method(path,
         file := File clone openForReading(path)
